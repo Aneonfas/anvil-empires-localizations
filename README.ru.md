@@ -6,7 +6,7 @@
 
 **[Скачать русификатор 1.0.2 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/ru-v1.0.2/Anvil-Empires-Russian-v1.0.2-steam-build-24805551.zip)** · [Что нового](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/ru-v1.0.2)
 
-Проверен на сборке игры **90510** — это номер **BUILD** в главном меню. Это отметка проверки, а не ограничение: обновление игры само по себе не требует отключать перевод.
+Проверен на сборке игры **90510** — это номер **BUILD** в главном меню.
 
 ## Установка
 
