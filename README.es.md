@@ -4,9 +4,11 @@
 
 Traducción no oficial para Windows y Steam.
 
-**[Descargar español 0.1.0 (beta) — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/es-v0.1.0/Anvil-Empires-Spanish-v0.1.0-steam-build-24619810.zip)** · [Novedades](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/es-v0.1.0)
+**[Descargar español 1.0.0 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/es-v1.0.0/Anvil-Empires-Spanish-v1.0.0-steam-build-24805551.zip)** · [Novedades](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/es-v1.0.0)
 
-Probada con la compilación **24619810** del juego en Steam. Es una referencia, no una restricción: una actualización no obliga a desactivar la traducción.
+Probada con la compilación **24805551** del juego en Steam. Es una referencia, no una restricción: una actualización no obliga a desactivar la traducción.
+
+Se han comprobado el inicio del juego y el aviso de la próxima prueba, no todas las pantallas.
 
 ## Instalar
 
@@ -24,6 +26,8 @@ Para actualizar, repite la instalación. Para quitarla, cierra el juego y retira
 ## ¿Algo falla?
 
 Cierra el juego, retira temporalmente la traducción y [pide ayuda](https://github.com/Aneonfas/anvil-empires-localizations/issues): explica qué ocurre e incluye la versión y una captura. Algunos mensajes del servidor y textos en imágenes pueden seguir en inglés.
+
+La fecha de la próxima prueba sigue en inglés (mes, «at» y AM/PM); el aviso sí está traducido.
 
 <a id="nfg-hub"></a>
 <details>
