@@ -1,6 +1,6 @@
 # Anvil Empires en español
 
-[Русский](README.ru.md) · [Todas las versiones](https://github.com/Aneonfas/anvil-empires-localizations/releases)
+[Русский](README.ru.md) · [Türkçe](README.tr.md) · [Todas las versiones](https://github.com/Aneonfas/anvil-empires-localizations/releases)
 
 Traducción no oficial para Windows y Steam.
 
@@ -14,10 +14,10 @@ Versión beta actualizada para Steam build **25584311**: **3 233 entradas** de l
 
 1. Cierra el juego. En **Steam → Propiedades → Idioma**, elige **English** y espera a que terminen las descargas.
 2. Abre **Administrar → Ver archivos locales** y entra en **`Anvil\Content\Paks`**.
-3. Mueve cualquier traducción rusa o española anterior fuera de `Paks`. No sobrescribas las copias guardadas.
+3. Mueve cualquier traducción rusa, española o turca anterior fuera de `Paks`. No sobrescribas las copias guardadas.
 4. Extrae el ZIP y copia **solo `Anvil-Spanish-Full_P.pak`** a `Paks`. Inicia el juego.
 
-**Una sola traducción activa: ruso o español. No modifiques `Anvil-Windows.pak`: es un archivo del juego.**
+**Una sola traducción activa: ruso, español o turco. No modifiques `Anvil-Windows.pak`: es un archivo del juego.**
 
 ## Actualizar o quitar
 
