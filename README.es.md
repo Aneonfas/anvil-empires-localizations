@@ -4,11 +4,11 @@
 
 Traducción no oficial para Windows y Steam.
 
-**[Descargar español 1.0.0 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/es-v1.0.0/Anvil-Empires-Spanish-v1.0.0-steam-build-24805551.zip)** · [Novedades](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/es-v1.0.0)
+**[Descargar español 1.1.0-beta.2 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/es-v1.1.0-beta.2/Anvil-Empires-Spanish-v1.1.0-beta.2-steam-build-25584311.zip)** · [Novedades](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/es-v1.1.0-beta.2)
 
-Probada con la compilación **90510** del juego, indicada como **BUILD** en el menú principal.
+Versión beta actualizada para Steam build **25584311**: **3 233 entradas** de localización.
 
-Se han comprobado el inicio del juego y el aviso de la próxima prueba, no todas las pantallas.
+165 pruebas automáticas superadas; paquete, parámetros de texto y fuentes comprobados. La comprobación de esta versión dentro del juego está pendiente.
 
 ## Instalar
 
