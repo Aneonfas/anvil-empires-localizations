@@ -4,9 +4,9 @@
 
 Неофициальный русский перевод для Windows и Steam. Автор — **nullith**.
 
-**[Скачать русификатор 1.0.2 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/ru-v1.0.2/Anvil-Empires-Russian-v1.0.2-steam-build-24805551.zip)** · [Что нового](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/ru-v1.0.2)
+**[Скачать русификатор 1.1.0 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/ru-v1.1.0/Anvil-Empires-Russian-v1.1.0-steam-build-25584311.zip)** · [Что нового](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/ru-v1.1.0)
 
-Проверен на сборке игры **90510** — это номер **BUILD** в главном меню.
+Обновлён и проверен в игре 28 сентября 2026 года (Steam BuildID **25584311**).
 
 ## Установка
 
