@@ -1,6 +1,6 @@
 # Русификатор Anvil Empires
 
-[Deutsch (Beta)](README.de.md)
+[Deutsch](README.de.md)
 [Español](README.es.md) · [Türkçe](README.tr.md) · [Все версии](https://github.com/Aneonfas/anvil-empires-localizations/releases)
 
 Неофициальный русский перевод для Windows и Steam. Автор — **nullith**.

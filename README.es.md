@@ -1,6 +1,6 @@
 # Anvil Empires en español
 
-[Deutsch (Beta)](README.de.md)
+[Deutsch](README.de.md)
 [Русский](README.ru.md) · [Türkçe](README.tr.md) · [Todas las versiones](https://github.com/Aneonfas/anvil-empires-localizations/releases)
 
 Traducción no oficial para Windows y Steam.
