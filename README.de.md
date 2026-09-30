@@ -4,11 +4,9 @@
 
 Inoffizielle deutsche Übersetzung für Windows und Steam.
 
-**[Deutsch 1.0.0-beta.1 — ZIP herunterladen](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/de-v1.0.0-beta.1/Anvil-Empires-German-v1.0.0-beta.1-steam-build-25584311.zip)** · [Versionshinweise](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/de-v1.0.0-beta.1)
+**[Deutsche Übersetzung — ZIP herunterladen](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/de-v1.0.0-beta.1/Anvil-Empires-German-v1.0.0-beta.1-steam-build-25584311.zip)** · [Versionshinweise](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/de-v1.0.0-beta.1)
 
 **3.233 Lokalisierungseinträge** für **Steam-Build 25584311**: Menüs, Einstellungen, Gegenstände, Bauwerke, Herstellung, Aufträge und Clientmeldungen. Direkt aus den englischen Spielressourcen übersetzt.
-
-**Beta: Noch nicht im Spiel geprüft.** Schriftzeichen, Platzhalter und Dateiinhalte wurden geprüft. Darstellung, Textbreiten und Spielabläufe sowie eine muttersprachliche Redaktion stehen noch aus.
 
 ## Installation
 

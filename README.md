@@ -7,6 +7,6 @@
 
 **[Türkçe 1.0.0 — indir ve yükle →](README.tr.md)**
 
-**[Deutsch 1.0.0-beta.1 — herunterladen und installieren →](README.de.md)**
+**[Deutsch — herunterladen und installieren →](README.de.md)**
 
 [Все версии / Todas las versiones](https://github.com/Aneonfas/anvil-empires-localizations/releases) · [Помощь / Ayuda](https://github.com/Aneonfas/anvil-empires-localizations/issues)
