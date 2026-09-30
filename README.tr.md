@@ -1,5 +1,6 @@
 # Anvil Empires Türkçe
 
+[Deutsch (Beta)](README.de.md)
 [Русский](README.ru.md) · [Español](README.es.md) · [Tüm sürümler](https://github.com/Aneonfas/anvil-empires-localizations/releases)
 
 Windows ve Steam için resmî olmayan Türkçe çeviri.
