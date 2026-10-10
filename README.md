@@ -1,12 +1,12 @@
 # Anvil Empires — Русский / Español / Türkçe / Deutsch
 
-Неофициальные переводы / Traducciones no oficiales. Windows · Steam.
+Неофициальные переводы / Unofficial translations. Windows · Steam build **25835022**.
 
-- **[Русский 1.1.0 — скачать и установить →](README.ru.md)**
-- **[Español 1.1.0-beta.2 — descargar e instalar →](README.es.md)**
+- **[Русский 1.2.0 — скачать и установить →](README.ru.md)**
+- **[Español 1.2.0 — descargar e instalar →](README.es.md)**
+- **[Deutsch 1.1.0 — herunterladen und installieren →](README.de.md)**
+- **[Türkçe 1.1.0 — indir ve yükle →](README.tr.md)**
 
-**[Türkçe 1.0.0 — indir ve yükle →](README.tr.md)**
+Стабильные выпуски / Stable releases · 2026-10-10.
 
-**[Deutsch — herunterladen und installieren →](README.de.md)**
-
-[Все версии / Todas las versiones](https://github.com/Aneonfas/anvil-empires-localizations/releases) · [Помощь / Ayuda](https://github.com/Aneonfas/anvil-empires-localizations/issues)
+[Все версии / All releases](https://github.com/Aneonfas/anvil-empires-localizations/releases) · [Помощь / Support](https://github.com/Aneonfas/anvil-empires-localizations/issues)
