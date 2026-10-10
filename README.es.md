@@ -5,20 +5,20 @@
 
 Traducción no oficial para Windows y Steam.
 
-**[Descargar español 1.1.0-beta.2 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/es-v1.1.0-beta.2/Anvil-Empires-Spanish-v1.1.0-beta.2-steam-build-25584311.zip)** · [Novedades](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/es-v1.1.0-beta.2)
+**[Descargar español 1.2.0 — ZIP](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/es-v1.2.0/Anvil-Empires-Spanish-v1.2.0-steam-build-25835022.zip)** · [Novedades](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/es-v1.2.0)
 
-Versión beta actualizada para Steam build **25584311**: **3 233 entradas** de localización.
+Versión estable actualizada para Steam build **25835022**: **3 244 entradas** de localización.
 
-165 pruebas automáticas superadas; paquete, parámetros de texto y fuentes comprobados. La comprobación de esta versión dentro del juego está pendiente.
+173 pruebas automáticas superadas. El usuario confirmó su funcionamiento en el juego el 10 de octubre de 2026; no se afirma haber verificado todas las pantallas.
 
 ## Instalar
 
 1. Cierra el juego. En **Steam → Propiedades → Idioma**, elige **English** y espera a que terminen las descargas.
 2. Abre **Administrar → Ver archivos locales** y entra en **`Anvil\Content\Paks`**.
-3. Mueve cualquier traducción rusa, española o turca anterior fuera de `Paks`. No sobrescribas las copias guardadas.
+3. Mueve cualquier traducción rusa, española, alemana o turca anterior fuera de `Paks`. No sobrescribas las copias guardadas.
 4. Extrae el ZIP y copia **solo `Anvil-Spanish-Full_P.pak`** a `Paks`. Inicia el juego.
 
-**Una sola traducción activa: ruso, español o turco. No modifiques `Anvil-Windows.pak`: es un archivo del juego.**
+**Una sola traducción activa: ruso, español, alemán o turco. No modifiques `Anvil-Windows.pak`: es un archivo del juego.**
 
 ## Actualizar o quitar
 

@@ -5,17 +5,17 @@
 
 Windows ve Steam için resmî olmayan Türkçe çeviri.
 
-**[Türkçe 1.0.0 — ZIP indir](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/tr-v1.0.0/Anvil-Empires-Turkish-v1.0.0-steam-build-25584311.zip)** · [Sürüm notları](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/tr-v1.0.0)
+**[Türkçe 1.1.0 — ZIP indir](https://github.com/Aneonfas/anvil-empires-localizations/releases/download/tr-v1.1.0/Anvil-Empires-Turkish-v1.1.0-steam-build-25835022.zip)** · [Sürüm notları](https://github.com/Aneonfas/anvil-empires-localizations/releases/tag/tr-v1.1.0)
 
-Steam build **25584311** için **3.233 yerelleştirme girdisi**. Türkçe karakter desteği ve daha kısa kamera ayarı etiketi içerir.
+Steam build **25835022** için **3.244 yerelleştirme girdisi**. Türkçe karakter desteği ve daha kısa kamera ayarı etiketi içerir.
 
-169 otomatik test geçti (isteğe bağlı EXE yükleyici testi atlandı). Kullanıcı, 28 Eylül 2026 tarihinde seçili oyun ekranlarını kontrol edip onayladı. Tüm ekranlar ve oyun akışları test edilmedi; ana dili Türkçe olan bir editörün incelemesi henüz yapılmadı.
+173 otomatik test geçti. Kullanıcı, 10 Ekim 2026 tarihinde oyunda çalıştığını doğruladı. Tüm ekranların ayrı ayrı kontrol edildiği veya ana dil editörü incelemesi yapıldığı iddia edilmez.
 
 ## Kurulum
 
 1. Oyunu kapatın. **Steam → Özellikler → Dil** bölümünde **English** seçin ve indirmelerin bitmesini bekleyin.
 2. **Yönet → Yerel dosyalara göz at** yolundan **`Anvil\Content\Paks`** klasörünü açın.
-3. Önceden yüklenmiş Rusça, İspanyolca veya Türkçe çeviri PAK dosyalarını `Paks` dışına taşıyın. Eski yedeklerin üzerine yazmayın.
+3. Önceden yüklenmiş Rusça, İspanyolca, Almanca veya Türkçe çeviri PAK dosyalarını `Paks` dışına taşıyın. Eski yedeklerin üzerine yazmayın.
 4. ZIP dosyasını açıp **yalnızca `Anvil-Turkish-Full_P.pak`** dosyasını `Paks` klasörüne kopyalayın. Oyunu başlatın.
 
 **Aynı anda yalnızca bir çeviri etkin olmalıdır. Oyunun `Anvil-Windows.pak` dosyasını değiştirmeyin.**
